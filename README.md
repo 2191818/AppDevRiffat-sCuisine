@@ -19,6 +19,7 @@ Accounts to test application with are seen and provided in main.dart
 Yeah that's all. Doing this alone helped showed me my weakness and streghts on working alone
 Working with more people would be better in task completion but, I'm tired of bad teamates.
 Sorry there are missing details, but I hope you can see the potential it has.
+For example admin order page is empty but normaly it would show all orders, if the checkout was saved to a file for example. Sorry!
 
 
 Github: https://github.com/2191818/AppDevRiffat-sCuisine/blob/main/README.md

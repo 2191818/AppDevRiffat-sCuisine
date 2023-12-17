@@ -1,0 +1,97 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    font-family: 'SF Pro Display', sans-serif;
+} */
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0;
+}
+
+/* MenuPic */
+.menuPic {
+    margin: 100px auto;
+    width: 80%;
+    background-image: url(http://cdn.shopify.com/s/files/1/0524/1874/0389/articles/desirestarantexperienceindiancuisineimage1.jpg?v=1652436098);
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+    text-align: center;
+    padding: 100px 0;
+}
+
+.menuPic h1 {
+    color: firebrick;
+    margin-bottom: 40px;
+    padding: 0;
+    font-family: pac;
+    font-size: 80px;
+    background-color: transparent;
+}
+
+.menu-container {
+    text-align: center;
+    max-height: 70vh;
+}
+
+table {
+    width: 1000px;
+    border-radius: 10px;
+}
+
+table td{
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.search-container,
+.filter-container {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.search-bar {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: flex;
+}
+
+.search-input {
+    padding: 5px;
+    border: none;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.search-button,
+.filter-button {
+    padding: 5px 10px;
+    background-color: firebrick;
+    color: #fff;
+    border: none;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    cursor: pointer;
+}
+
+.space {
+    margin-left: 10px;
+}
+
+.dropdown-menu {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.filter-button {
+    padding: 7px;
+}
+

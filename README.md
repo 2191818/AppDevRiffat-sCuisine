@@ -1,25 +1,16 @@
 # AppDevRiffat-sCuisine
 
-This is a README file.
-
-In this file will contain a few explanations and just a bit understanding of project
-
 Accounts to test application with are seen and provided in main.dart
 
-## Incomplete features and parts 
-- API
-- Checkout, complete-ish. Completed but on wrong page
-- Extra features for user manipulation
+## Description
+Designed with Flutter and Dart, this project utilizes SQLite for a stylish and efficient mobile application. Users can seamlessly place orders and interact with the app, merging style with functionality for an enhanced user experience.
 
 
-## Things that are imporant and will be added later on
+## Outstanding Features and Components 
+- API Integration
+- Checkout: Partial completion, but implemented on the incorrect page
+- Additional features for user manipulation
+
+## Key Components to be Addressed Later 
 - Missing Content
-- API, Location Fethching
-
-Yeah that's all. Doing this alone helped showed me my weakness and streghts on working alone
-Working with more people would be better in task completion but, I'm tired of bad teamates.
-Sorry there are missing details, but I hope you can see the potential it has.
-For example admin order page is empty but normaly it would show all orders, if the checkout was saved to a file for example. Sorry!
-
-
-Github: https://github.com/2191818/AppDevRiffat-sCuisine/blob/main/README.md
+- API: Location Fetching

@@ -1,4 +1,4 @@
-# AppDevRiffat-sCuisine
+# Riffat's Cuisine - Mobile Application
 
 Accounts to test application with are seen and provided in main.dart
 
